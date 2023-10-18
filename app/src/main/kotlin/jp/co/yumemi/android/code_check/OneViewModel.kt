@@ -22,7 +22,7 @@ import org.json.JSONObject
 import java.util.Date
 
 /**
- * TwoFragment で使う
+ * OneFragment で使う
  */
 class OneViewModel(
     val context: Context
